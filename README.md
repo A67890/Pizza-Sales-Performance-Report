@@ -123,4 +123,5 @@ A treemap visualization displaying revenue contribution across individual pizza 
 ## 6. Screenshots / Demos
 
 Show what the dashboard looks like. Example:
+(https://github.com/A67890/Pizza-Sales-Performance-Report/blob/main/Pizza%20Sales%20Performance%20Report_Ashu.pdf)
 
